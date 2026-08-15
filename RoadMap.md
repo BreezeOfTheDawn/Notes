@@ -137,3 +137,4 @@
 4. Only start Phase 4 (classical ML) once Probability + Matrices are genuinely solid
 5. Everything from Phase 4 onward (university-level math, DL, portfolio) ramps up as you approach application time
 # French in very important
+Learn it well
