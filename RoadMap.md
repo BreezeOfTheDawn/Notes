@@ -1,13 +1,7 @@
-# Roadmap: Zero → AI Master's in France → EU Passport
-
-**Starting point:** 3rd year BSc (distance mode), real academic level ~Class 12, Arch Linux + git/dotfiles experience (real asset), zero coding/ML background otherwise.
-
----
-
 ## Phase 0 — Admin Reality Check (do this early, costs nothing)
 
-- Email **Campus France India** and ask specifically how your university's distance-mode BSc is evaluated for Master's admission. The France-India mutual recognition agreement covers UGC-recognized institutions in general, but selective programs still judge your actual transcript and rigor — better to know now than at application time.
-- Because a distance degree can be viewed as less rigorous than a full-time one, treat your **GitHub, Kaggle, and project portfolio as mandatory**, not optional — it's what offsets that gap.
+- Email **Campus France India** and ask specifically how your university's BSc is evaluated for Master's admission. The France-India mutual recognition agreement covers UGC-recognized institutions in general, but selective programs still judge your actual transcript and rigor — better to know now than at application time.
+- Treat your **GitHub, Kaggle, and project portfolio as mandatory**, not optional — it's what offsets that gap.
 
 ---
 
@@ -81,7 +75,7 @@
 
 ---
 
-## Phase 6 — CS / Software Engineering Depth
+## Phase 6 — CS 
 
 - **Data Structures & Algorithms** (proper): trees, graphs, dynamic programming
 - **Statistical Learning Theory**: bias-variance tradeoff, regularization, why models generalize
@@ -111,13 +105,6 @@
 
 ---
 
-## Phase 9 — English Proficiency
-
-- IELTS or TOEFL — needed since the target AI Master's (e.g. Grenoble/Ensimag) is English-taught
-- Start once your academic basics are steady; don't leave it to the final year
-
----
-
 ## Phase 10 — Applying to France
 
 - Apply via the **Etudes en France (EEF)** portal (mandatory route for Indian students)
@@ -141,23 +128,6 @@
 
 ---
 
-## Phase 13 — French for Citizenship
-*(Low priority now, becomes real ~mid-Master's or after)*
-
-- Naturalization now requires **B2 French** (oral + written) as of Jan 1, 2026 — this is separate from your Master's language requirement
-- Casual/gradual study is fine early on; get serious as you approach the application window
-
----
-
-## Phase 14 — Naturalization / Passport
-
-- Standard requirement: 5 years residence; reduced to **2 years** for holders of a French Master's-level diploma or higher (Article 21-18, Code civil)
-- New 2026 requirements: **B2 French** + a **40-question civic exam** on French history/institutions
-- Naturalization is **discretionary** — meeting criteria doesn't guarantee approval; recent policy scrutinizes applicants whose income comes mostly from abroad, reinforcing the value of stable local employment
-- Filing-to-decree processing: typically **18–24 months**
-- **Note:** France generally allows dual nationality, but India does not — becoming a French citizen would mean renouncing Indian citizenship (an OCI card is available afterward for many practical rights in India, but not citizenship itself)
-
----
 
 ## Suggested Order of Attack (right now)
 
@@ -165,6 +135,5 @@
 2. Physics, at "solid pass" effort, per your actual syllabus
 3. Move into Phase 3 (NumPy/Pandas) once Python basics feel natural
 4. Only start Phase 4 (classical ML) once Probability + Matrices are genuinely solid
-5. English test prep, whenever basics are steady — don't leave to the last year
-6. Everything from Phase 5 onward (university-level math, DL, portfolio) ramps up as you approach application time
-7. French language and the citizenship-specific steps (Phases 13–14) can wait — they only become relevant once you're actually in France
+5. Everything from Phase 4 onward (university-level math, DL, portfolio) ramps up as you approach application time
+# French in very important
